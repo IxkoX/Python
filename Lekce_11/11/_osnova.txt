@@ -1,0 +1,44 @@
+
+1. IT ?? - co znamená zkratka
+- gps souřadnice
+- obrázek
+- html stránka
+- sms
+- hudba
+- signal (wifi, radio, morseovka)
+
+2. OOP - objektově orientované programování
+- koncept (modelování, způsob programování)
+- gps souřadnice
+- převodník morseovky
+
+
+Vrána:
+barva, křídla, zobák
+létání
+
+Dveře:
+barva, tvar, madlo, velikost
+otevírání
+
+Dopravní značka:
+pozice, druh značky, typ (dočasné, trvalé)
+- svítí
+
+Člověk:
+- barva, ruce nohy, rasa, jméno
+- chůze, zpívání...
+
+Brýle:
+- čočky, obrubník, měkké části
+- ochrana (světlo, mechanika), korekce zraku
+
+Radio přijimač
+- velikost, vaha, barva
+- reproduktor, přijimač...
+- přijetí/zpracování signálu, přehrávání zvuku
+
+rozhranní: tlačítko, otočné kolečko, anténa
+
+
+3. moduly

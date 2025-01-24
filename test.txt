@@ -1,0 +1,12 @@
+1. str, bool, int, none, float,   
+2. list, tuple, set, dict - (),[],{}
+3.  if něco:
+        činost1
+    else:
+        činost2
+4.  for i in data:
+        činnost
+5.  def název funkce (par1, par2)
+        tělo funkce
+        return
+Potmo zavolání funkce: název()

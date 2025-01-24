@@ -1,0 +1,7 @@
+nalezení max, min, sum, avg
+- vlastní funkce
+
+Built-in funkce
+
+počítadlo výskytu + Counter
+
