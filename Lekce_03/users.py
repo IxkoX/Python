@@ -1,9 +1,13 @@
 # user.py
 
-import os, json
+import os, json, hashlib
 
 
 DATA_PATH = 'Lekce_03/users.json'
+
+def hash_password(password):
+    hash_value = hashlib.sha256(password.encode())
+    return hash_value.hexdigest()
 
 def read_data():
     with open(DATA_PATH, encoding='utf-8') as file:
